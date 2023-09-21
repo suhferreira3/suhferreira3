@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Encontrar novos talentos
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...suelen.ferreira@financeit.com.br
+- 📫 How to reach me ...suelen.esfrh@gmail.com
 
 <!---
 suhferreira3/suhferreira3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
